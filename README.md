@@ -1,7 +1,7 @@
 # Task-3 / SmartMethods
 A web page that works (GET) a sensitive value of type (INTEGER) and stores it in a database
 
-##Steps:
+## Steps:
 - Download xampp.
 - We use any text editor.
 - Create a folder inside the htdocs folder.
